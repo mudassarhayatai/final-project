@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.head{
+	margin-top: 20px;
+	height: 80px;
+}
+.home-text{
+	margin-top: 30%;
+	margin-left: 7%;
+}
+.navbar-nav{
+	margin-left: 15%;
+	padding: 10px;
+	letter-spacing: 3px;
+
+}
+.navbar-brand{
+	margin-left: 9%;
+}
+.home{
+	background-color: rgb(225,229,232);
+	
+}
+.service{
+	color: rgb(52,58,64);
+	margin-bottom: 40px;
+}
+.services{
+	margin-bottom: 10%;
+}
+.service-card{
+	height: 400px;
+	width: 260px;
+}
+.card-body{
+	background-color: rgb(225,229,232);
+}
+.contact{
+	background-color: rgb(225,229,232);
+}
